@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^11.3.28",
+    "mapbox-gl": "^3.6.0",
+    "mongoose": "^8.5.3",
+    "next": "14.2.5",
+    "next-auth": "^4.24.7",
+    "node-schedule": "^2.1.1",
+    "razorpay": "^2.9.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-hook-form": "^7.52.2",
+    "react-mapbox-gl": "^5.1.1",
+    "react-router-dom": "^6.26.1",
+    "react-toastify": "^10.0.5"
   },
   "devDependencies": {
     "postcss": "^8",

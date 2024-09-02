@@ -1,0 +1,11 @@
+{
+  "/login/page": "app/login/page.js",
+  "/visitors/page": "app/visitors/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js",
+  "/memberships/page": "app/memberships/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/razorpay/route": "app/api/razorpay/route.js",
+  "/contact/page": "app/contact/page.js",
+  "/membership/page": "app/membership/page.js"
+}
